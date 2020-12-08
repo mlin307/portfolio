@@ -5,7 +5,7 @@ body{
 	
 }
 *{
-	box-sizing:border-box;
+
 	scroll-behavior: smooth;
 }
 ul{
@@ -53,12 +53,7 @@ nav ul li a{
 	letter-spacing: 1px;
 }
 
-nav ul li a:hover{
-	background-color: #2adabc;
-	color:#FFFFFF;
-	box-shadow: 5px 10px 30px rgba(64,198,196,0.3);
-	transition: all ease 0.2s;
-}
+
 
 .content{
 	width:90%;
@@ -140,15 +135,6 @@ nav ul li a:hover{
 .s-box-text p{
 	color:#747474;
 	font-size: 1rem;
-}
-.fa-html5{
-	color:#e06061;
-}
-.fa-css3-alt{
-	color:#416cdf;
-}
-.fa-js-square{
-	color:#f98231;
 }
 
 
